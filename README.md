@@ -2,9 +2,13 @@
 
 ### 2nd grade, Unho Highschool
 
+
+[![](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:leejihyek1267@gmail.com)
+![](https://img.shields.io/badge/OIOI%233990-5863F2?style=flat-square&logo=Discord&logoColor=white)
+
 ---
 
-### Main Skills
+### 💪 Main Skills
 
 #### Languages :
 
@@ -19,7 +23,6 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Actix Web](https://img.shields.io/badge/Actix%20Web-010101?style=flat-square&logo=)
-
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
 
 #### Hardwares :
@@ -90,8 +93,3 @@
 - [Unho Meals](https://github.com/k-yuminkim/UNHOMEALS)
 - [Unho Meals Server](https://github.com/sam1677/unhomeal_server)
 - [Training Self-driving Car](https://github.com/sam1677/training_mobilenetv2)
-
-### 📞 Connections
-
-[![](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:leejihyek1267@gmail.com)
-![](https://img.shields.io/badge/OIOI%233990-5863F2?style=flat-square&logo=Discord&logoColor=white)
