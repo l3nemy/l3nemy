@@ -4,8 +4,6 @@
 
 ---
 
-<br />
-
 ### Main Skills
 
 #### Languages :
@@ -34,8 +32,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)
 
-<br />
-
 ### 📒 Currently Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
@@ -43,11 +39,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=OpenGL&logoColor=white)
-
-- Reverse engineering
-
-<br />
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=OpenGL&logoColor=white) + Reverse engineering
 
 ### 🛠 Tools
 
@@ -86,8 +78,6 @@
 
 ##### - Laptop 2: Apple M1 MacBook Air (borrowed from school)
 
-<br />
-
 ### 💖 Resent Interests
 
 - Artificial Intelligence
@@ -95,15 +85,11 @@
 - Reverse Engineering
 - Game Server
 
-<br />
-
 ### 📚 Current Projects
 
 - [Unho Meals](https://github.com/k-yuminkim/UNHOMEALS)
 - [Unho Meals Server](https://github.com/sam1677/unhomeal_server)
 - [Training Self-driving Car](https://github.com/sam1677/training_mobilenetv2)
-
-<br />
 
 ### 📞 Connections
 
