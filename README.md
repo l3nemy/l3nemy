@@ -54,13 +54,10 @@
 
 ![OpenWrt](https://img.shields.io/badge/OpenWrt-00B5E2?style=flat-square&logo=OpenWrt&logoColor=white)
 
-#### IDE :
+#### IDE / Editors :
 
 ![Intellij IDEA](https://img.shields.io/badge/Intellij%20IDEA-000000?style=flat-square&logo=Intellij+IDEA&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual+Studio+Code&logoColor=white)
-
-#### Keybindings :
-
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-57A143?style=flat-square&logo=NeoVim&logoColor=white)
 
