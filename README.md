@@ -1,10 +1,12 @@
-## JH Lee
+## JH Lee 
 
 ### 2nd grade, Unho Highschool
 
-
 [![](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:leejihyek1267@gmail.com)
 ![](https://img.shields.io/badge/OIOI%233990-5863F2?style=flat-square&logo=Discord&logoColor=white)
+
+#### Currently I'm studying hard for the Korean SAT
+- So I have no time to code :(
 
 ---
 
@@ -72,24 +74,16 @@
 
 ![](https://img.shields.io/badge/Bose%20QC45-000000?style=flat-square&logo=Bose&logoColor=white)
 
-##### - Desktop: i5-7500 + GTX1050 ti, 16GB (Arch + Windows dualboot)
-
-##### - Laptop: Ryzen 4800U + RX Vega 7, 16GB (Arch + Windows dualboot)
-
-##### - Laptop 2: Apple M1 MacBook Air (borrowed from school)
-
 ### 💖 Resent Interests
 
 - Artificial Intelligence
-  - [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
+  - [Stable Diffusion](https://github.com/Stability-AI/stablediffusion)
 - Reverse Engineering
 - Game Server
 
 ### 📚 Current Projects
 
-- [Unho Meals](https://github.com/k-yuminkim/UNHOMEALS)
-- [Unho Meals Server](https://github.com/sam1677/unhomeal_server)
-- [Training Self-driving Car](https://github.com/sam1677/training_mobilenetv2)
+- None
 
 
 ![](https://hit.yhype.me/github/profile?user_id=16606716)
