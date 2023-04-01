@@ -1,6 +1,6 @@
-## JH Lee 
+## Ji-Hyeok Lee 
 
-### 2nd grade, Unho Highschool
+### 3rd grade, Unho Highschool
 
 [![](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:leejihyek1267@gmail.com)
 ![](https://img.shields.io/badge/OIOI%233990-5863F2?style=flat-square&logo=Discord&logoColor=white)
@@ -74,7 +74,7 @@
 
 ![](https://img.shields.io/badge/Bose%20QC45-000000?style=flat-square&logo=Bose&logoColor=white)
 
-### 💖 Resent Interests
+### 💖 Recent Interests
 
 - Artificial Intelligence
   - [Stable Diffusion](https://github.com/Stability-AI/stablediffusion)
