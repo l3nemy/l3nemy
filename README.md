@@ -5,9 +5,6 @@
 [![](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:leejihyek1267@gmail.com)
 ![](https://img.shields.io/badge/OIOI%233990-5863F2?style=flat-square&logo=Discord&logoColor=white)
 
-#### Currently I'm studying hard for the Korean SAT
-- So I have no time to code :(
-
 ---
 
 ### 💪 Main Skills
