@@ -1,4 +1,4 @@
-## Ji-Hyeok Lee 
+## JiHyeok Lee 
 
 ### 3rd grade, Unho Highschool
 
