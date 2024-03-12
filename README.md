@@ -2,8 +2,6 @@
 
 ## Ji-Hyeok Lee 
 
-### 3rd grade, Unho Highschool
-
 [![](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:leejihyeok1267@gmail.com)
 ![](https://img.shields.io/badge/oioi.0-5863F2?style=flat-square&logo=Discord&logoColor=white)
 
