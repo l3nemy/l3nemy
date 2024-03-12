@@ -36,14 +36,15 @@
 
 ### 📒 Currently Learning
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white) + Reverse engineering
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![Vitess](https://img.shields.io/badge/Vitess-F16728?style=flat-square&logo=vitess&logoColor=white)
 
 ### 🛠 Tools
 
 #### OS :
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=Apple&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 
 #### IDE / Editors :
 
@@ -61,10 +62,7 @@
 
 ### 💖 Recent Interests
 
-- Artificial Intelligence
-  - [Stable Diffusion](https://github.com/Stability-AI/stablediffusion)
-- Reverse Engineering
-- Game Server
+- Distributed Database, Computing
 
 ### 📚 Current Projects
 
@@ -72,5 +70,5 @@
 
 </details>
 
-![](https://hit.yhype.me/github/profile?user_id=16606716)
+<!--![](https://hit.yhype.me/github/profile?user_id=16606716)-->
 
